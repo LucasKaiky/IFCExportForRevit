@@ -26,7 +26,7 @@ namespace RevitIFCExport
                 {
                     transaction.Start();
 
-                    string ifcFilePath = "C:\\Users\\lucas\\Downloads\\IcfExport";
+                    string ifcFilePath = "C:\\Users\\lucas\\Downloads";
                     string ifcTitle = doc.Title;
                     IFCExportOptions options = new IFCExportOptions();
                     doc.Export(ifcFilePath, ifcTitle, options);
