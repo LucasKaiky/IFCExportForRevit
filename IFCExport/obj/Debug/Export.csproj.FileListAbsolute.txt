@@ -1,0 +1,6 @@
+C:\Users\lucas\source\repos\IFCExport\IFCExport\bin\Debug\IFCExport.dll
+C:\Users\lucas\source\repos\IFCExport\IFCExport\bin\Debug\IFCExport.pdb
+C:\Users\lucas\source\repos\IFCExport\IFCExport\obj\Debug\Export.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\IFCExport\IFCExport\obj\Debug\Export.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\IFCExport\IFCExport\obj\Debug\IFCExport.dll
+C:\Users\lucas\source\repos\IFCExport\IFCExport\obj\Debug\IFCExport.pdb
