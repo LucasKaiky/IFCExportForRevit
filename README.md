@@ -12,6 +12,8 @@ O código aqui fornecido consiste em uma classe `IFCExport` que implementa a int
 
 Certifique-se de ter o Autodesk Revit instalado para poder utilizar este plugin.
 
+## OBS: Trocar o caminho da variável ifcFilePath
+
 ### Passos para Exportação
 
 1. Clone ou faça o download deste repositório.
